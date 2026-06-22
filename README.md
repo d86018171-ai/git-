@@ -1,3 +1,3 @@
 # git-
 my first repository
-Author - Divyansh
+Author - Divyansh don
